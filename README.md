@@ -21,7 +21,6 @@ By the end of this work I was able to:
 * Ask questions and answer them using data statistics and visulization.
 
 # File Descriptions
-
 * The data folder contains the 3 bikeshare system datasets of New York, Chicago and Washington cities
 * 2016_US_Bikeshare_Analysis.ipynb is a Jupyter notebook containing the work I have done. 
 * 2016_US_Bikeshare_Analysis.html is a html version of this work
